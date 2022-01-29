@@ -5,6 +5,8 @@
       <list>
         <option value="$PROJECT_DIR$/Aop/pom.xml" />
         <option value="$PROJECT_DIR$/ShutDownApi/pom.xml" />
+        <option value="$PROJECT_DIR$/Jpa/pom.xml" />
+        <option value="$PROJECT_DIR$/JpaMultipleDataResource/pom.xml" />
       </list>
     </option>
   </component>

@@ -3,7 +3,11 @@
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$/Aop/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/Aop/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Jpa/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/JpaMultipleDataResource/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/JpaMultipleDatasources/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/ShutDownApi/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/ShutDownApi/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo/src/main/java" charset="UTF-8" />
   </component>
 </project>
