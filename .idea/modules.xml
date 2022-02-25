@@ -2,10 +2,6 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Aop/Aop.iml" filepath="$PROJECT_DIR$/Aop/Aop.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Jpa/Jpa.iml" filepath="$PROJECT_DIR$/Jpa/Jpa.iml" />
-      <module fileurl="file://$PROJECT_DIR$/JpaMultipleDataResource/JpaMultipleDataResource.iml" filepath="$PROJECT_DIR$/JpaMultipleDataResource/JpaMultipleDataResource.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ShutDownApi/ShutDownApi.iml" filepath="$PROJECT_DIR$/ShutDownApi/ShutDownApi.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/SpringBootTests.iml" filepath="$PROJECT_DIR$/.idea/SpringBootTests.iml" />
     </modules>
   </component>

@@ -1,14 +1,9 @@
-package com.example.jpa.dbModel;
+package com.example.resourceserver.api.model;
 
-import javax.persistence.*;
 
-@Entity
-@Table(name = "[USER]")
 public class User {
 
 
-    @Id
-    @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Long id;
     private String userName;
     private String firstName;
